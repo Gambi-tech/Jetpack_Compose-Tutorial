@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     Jetpack_Compose_TutorialTheme {
-        Greeting("Android")
+        Greeting("Dave. Welcome to jetpack compose tutorial")
     }
 }
